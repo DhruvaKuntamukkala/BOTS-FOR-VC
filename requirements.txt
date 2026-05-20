@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+playwright
+pydantic
+sounddevice
+numpy
+scipy
+wavio
+requests
+PyJWT
